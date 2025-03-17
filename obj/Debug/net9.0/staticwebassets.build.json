@@ -1,12 +1,1042 @@
 {
   "Version": 1,
-  "Hash": "xdV9kqnt7qg+ScjosU02AwQ1D5ElJDf/XiinDkzjM6k=",
+  "Hash": "WSb9a2vlLr2dmVXpHExXFFJHc1tR7toF/PpjEvu2wmU=",
   "Source": "TodoApi",
   "BasePath": "_content/TodoApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "TodoApi\\wwwroot",
+      "Source": "TodoApi",
+      "ContentRoot": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\wwwroot\\",
+      "BasePath": "_content/TodoApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\obj\\Debug\\net9.0\\compressed\\dr7bsx0dci-olqrz1n3ey.gz",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "css/site#[.{fingerprint=olqrz1n3ey}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\wwwroot\\css\\site.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "bhh0jw4pkc",
+      "Integrity": "gbTfqmUYDtCN7vxgnzv1LnlFaprYl/vnrPmrnnPxHPs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\obj\\Debug\\net9.0\\compressed\\jn4os9k5nm-bcf3fs4a6m.gz",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "js/site#[.{fingerprint=bcf3fs4a6m}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\wwwroot\\js\\site.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "8a0913w6f1",
+      "Integrity": "UImFLwr64zuyp6jP0PUHsARPg4M+J9NkfmhLR1yaHL8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\obj\\Debug\\net9.0\\compressed\\v7fzscjp8g-0xnv0y4qs5.gz",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "index#[.{fingerprint=0xnv0y4qs5}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "g0rissz6mb",
+      "Integrity": "QJXLgTNQobF/TBxitJsH+xRYkqEhqzdvxtAiPRZYKaI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\wwwroot\\css\\site.css",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\wwwroot\\",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "olqrz1n3ey",
+      "Integrity": "bJZq5BpvwdMEp7REhg+3nPiDU7JXRvMiFl5SW9r7MEI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\wwwroot\\index.html",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\wwwroot\\",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0xnv0y4qs5",
+      "Integrity": "LO2QDcsZDYHqWjIglTl0Ri+Qa6VGMBg15NvYkzWqSFM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\wwwroot\\js\\site.js",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\wwwroot\\",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bcf3fs4a6m",
+      "Integrity": "lXBaOrG+wSjNgVvtL3uZGd80zkbGdR4hlvKC9UjxXcA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\obj\\Debug\\net9.0\\compressed\\dr7bsx0dci-olqrz1n3ey.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004672897196"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gbTfqmUYDtCN7vxgnzv1LnlFaprYl/vnrPmrnnPxHPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 00:26:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bJZq5BpvwdMEp7REhg+3nPiDU7JXRvMiFl5SW9r7MEI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bJZq5BpvwdMEp7REhg+3nPiDU7JXRvMiFl5SW9r7MEI="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bJZq5BpvwdMEp7REhg+3nPiDU7JXRvMiFl5SW9r7MEI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 00:26:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bJZq5BpvwdMEp7REhg+3nPiDU7JXRvMiFl5SW9r7MEI="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\obj\\Debug\\net9.0\\compressed\\dr7bsx0dci-olqrz1n3ey.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gbTfqmUYDtCN7vxgnzv1LnlFaprYl/vnrPmrnnPxHPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 00:26:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gbTfqmUYDtCN7vxgnzv1LnlFaprYl/vnrPmrnnPxHPs="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.olqrz1n3ey.css",
+      "AssetFile": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\obj\\Debug\\net9.0\\compressed\\dr7bsx0dci-olqrz1n3ey.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004672897196"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gbTfqmUYDtCN7vxgnzv1LnlFaprYl/vnrPmrnnPxHPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 00:26:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bJZq5BpvwdMEp7REhg+3nPiDU7JXRvMiFl5SW9r7MEI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "olqrz1n3ey"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bJZq5BpvwdMEp7REhg+3nPiDU7JXRvMiFl5SW9r7MEI="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.olqrz1n3ey.css",
+      "AssetFile": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bJZq5BpvwdMEp7REhg+3nPiDU7JXRvMiFl5SW9r7MEI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 00:26:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "olqrz1n3ey"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bJZq5BpvwdMEp7REhg+3nPiDU7JXRvMiFl5SW9r7MEI="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.olqrz1n3ey.css.gz",
+      "AssetFile": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\obj\\Debug\\net9.0\\compressed\\dr7bsx0dci-olqrz1n3ey.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gbTfqmUYDtCN7vxgnzv1LnlFaprYl/vnrPmrnnPxHPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 00:26:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "olqrz1n3ey"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gbTfqmUYDtCN7vxgnzv1LnlFaprYl/vnrPmrnnPxHPs="
+        }
+      ]
+    },
+    {
+      "Route": "index.0xnv0y4qs5.html",
+      "AssetFile": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\obj\\Debug\\net9.0\\compressed\\v7fzscjp8g-0xnv0y4qs5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001876172608"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "532"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QJXLgTNQobF/TBxitJsH+xRYkqEhqzdvxtAiPRZYKaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 00:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LO2QDcsZDYHqWjIglTl0Ri+Qa6VGMBg15NvYkzWqSFM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0xnv0y4qs5"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LO2QDcsZDYHqWjIglTl0Ri+Qa6VGMBg15NvYkzWqSFM="
+        }
+      ]
+    },
+    {
+      "Route": "index.0xnv0y4qs5.html",
+      "AssetFile": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LO2QDcsZDYHqWjIglTl0Ri+Qa6VGMBg15NvYkzWqSFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 00:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0xnv0y4qs5"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LO2QDcsZDYHqWjIglTl0Ri+Qa6VGMBg15NvYkzWqSFM="
+        }
+      ]
+    },
+    {
+      "Route": "index.0xnv0y4qs5.html.gz",
+      "AssetFile": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\obj\\Debug\\net9.0\\compressed\\v7fzscjp8g-0xnv0y4qs5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "532"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QJXLgTNQobF/TBxitJsH+xRYkqEhqzdvxtAiPRZYKaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 00:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0xnv0y4qs5"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QJXLgTNQobF/TBxitJsH+xRYkqEhqzdvxtAiPRZYKaI="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\obj\\Debug\\net9.0\\compressed\\v7fzscjp8g-0xnv0y4qs5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001876172608"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "532"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QJXLgTNQobF/TBxitJsH+xRYkqEhqzdvxtAiPRZYKaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 00:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LO2QDcsZDYHqWjIglTl0Ri+Qa6VGMBg15NvYkzWqSFM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LO2QDcsZDYHqWjIglTl0Ri+Qa6VGMBg15NvYkzWqSFM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LO2QDcsZDYHqWjIglTl0Ri+Qa6VGMBg15NvYkzWqSFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 00:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LO2QDcsZDYHqWjIglTl0Ri+Qa6VGMBg15NvYkzWqSFM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\obj\\Debug\\net9.0\\compressed\\v7fzscjp8g-0xnv0y4qs5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "532"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QJXLgTNQobF/TBxitJsH+xRYkqEhqzdvxtAiPRZYKaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 00:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QJXLgTNQobF/TBxitJsH+xRYkqEhqzdvxtAiPRZYKaI="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.bcf3fs4a6m.js",
+      "AssetFile": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\obj\\Debug\\net9.0\\compressed\\jn4os9k5nm-bcf3fs4a6m.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000986193294"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1013"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UImFLwr64zuyp6jP0PUHsARPg4M+J9NkfmhLR1yaHL8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 00:27:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lXBaOrG+wSjNgVvtL3uZGd80zkbGdR4hlvKC9UjxXcA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bcf3fs4a6m"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lXBaOrG+wSjNgVvtL3uZGd80zkbGdR4hlvKC9UjxXcA="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.bcf3fs4a6m.js",
+      "AssetFile": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3602"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lXBaOrG+wSjNgVvtL3uZGd80zkbGdR4hlvKC9UjxXcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 00:27:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bcf3fs4a6m"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lXBaOrG+wSjNgVvtL3uZGd80zkbGdR4hlvKC9UjxXcA="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.bcf3fs4a6m.js.gz",
+      "AssetFile": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\obj\\Debug\\net9.0\\compressed\\jn4os9k5nm-bcf3fs4a6m.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1013"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UImFLwr64zuyp6jP0PUHsARPg4M+J9NkfmhLR1yaHL8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 00:27:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bcf3fs4a6m"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UImFLwr64zuyp6jP0PUHsARPg4M+J9NkfmhLR1yaHL8="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\obj\\Debug\\net9.0\\compressed\\jn4os9k5nm-bcf3fs4a6m.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000986193294"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1013"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UImFLwr64zuyp6jP0PUHsARPg4M+J9NkfmhLR1yaHL8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 00:27:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lXBaOrG+wSjNgVvtL3uZGd80zkbGdR4hlvKC9UjxXcA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lXBaOrG+wSjNgVvtL3uZGd80zkbGdR4hlvKC9UjxXcA="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3602"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lXBaOrG+wSjNgVvtL3uZGd80zkbGdR4hlvKC9UjxXcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 00:27:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lXBaOrG+wSjNgVvtL3uZGd80zkbGdR4hlvKC9UjxXcA="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.gz",
+      "AssetFile": "C:\\IndianHills\\term6\\AdvC#\\todoList\\TodoApi\\obj\\Debug\\net9.0\\compressed\\jn4os9k5nm-bcf3fs4a6m.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1013"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UImFLwr64zuyp6jP0PUHsARPg4M+J9NkfmhLR1yaHL8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 00:27:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UImFLwr64zuyp6jP0PUHsARPg4M+J9NkfmhLR1yaHL8="
+        }
+      ]
+    }
+  ]
 }

@@ -286,3 +286,8 @@ C:\IndianHills\term6\AdvC#\todoList\TodoApi\obj\Debug\net9.0\refint\TodoApi.dll
 C:\IndianHills\term6\AdvC#\todoList\TodoApi\obj\Debug\net9.0\TodoApi.pdb
 C:\IndianHills\term6\AdvC#\todoList\TodoApi\obj\Debug\net9.0\TodoApi.genruntimeconfig.cache
 C:\IndianHills\term6\AdvC#\todoList\TodoApi\obj\Debug\net9.0\ref\TodoApi.dll
+C:\IndianHills\term6\AdvC#\todoList\TodoApi\obj\Debug\net9.0\TodoApi.sourcelink.json
+C:\IndianHills\term6\AdvC#\todoList\TodoApi\bin\Debug\net9.0\TodoApi.staticwebassets.runtime.json
+C:\IndianHills\term6\AdvC#\todoList\TodoApi\obj\Debug\net9.0\compressed\dr7bsx0dci-olqrz1n3ey.gz
+C:\IndianHills\term6\AdvC#\todoList\TodoApi\obj\Debug\net9.0\compressed\v7fzscjp8g-0xnv0y4qs5.gz
+C:\IndianHills\term6\AdvC#\todoList\TodoApi\obj\Debug\net9.0\compressed\jn4os9k5nm-bcf3fs4a6m.gz
