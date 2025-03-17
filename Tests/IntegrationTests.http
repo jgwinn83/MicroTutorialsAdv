@@ -1,0 +1,5 @@
+### get all books
+GET http://localhost:5254/api/books
+
+### get a book by id
+GET http://localhost:5254/api/books/67d760935b3c45d5fb335f67
