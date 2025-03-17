@@ -1,0 +1,18 @@
+@baseUrl=http://localhost:7236
+
+### Post Task
+
+
+POST https://localhost:7236/api/TodoItems
+Content-Type: application/json
+
+{
+  "name": "talk to dog",
+  "isComplete": false,
+  "secret": "shhhh"
+}
+
+### 
+### Get all tasks
+GET https://localhost:7236/api/TodoItems
+

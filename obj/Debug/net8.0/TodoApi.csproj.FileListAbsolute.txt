@@ -1,0 +1,7 @@
+C:\IndianHills\term6\AdvC#\todoList\TodoApi\obj\Debug\net8.0\TodoApi.csproj.AssemblyReference.cache
+C:\IndianHills\term6\AdvC#\todoList\TodoApi\obj\Debug\net8.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\IndianHills\term6\AdvC#\todoList\TodoApi\obj\Debug\net8.0\TodoApi.AssemblyInfoInputs.cache
+C:\IndianHills\term6\AdvC#\todoList\TodoApi\obj\Debug\net8.0\TodoApi.AssemblyInfo.cs
+C:\IndianHills\term6\AdvC#\todoList\TodoApi\obj\Debug\net8.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\IndianHills\term6\AdvC#\todoList\TodoApi\obj\Debug\net8.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\IndianHills\term6\AdvC#\todoList\TodoApi\obj\Debug\net8.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
